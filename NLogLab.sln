@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLogLab", "NLogLab\NLogLab.csproj", "{E40EB54A-CF1A-4FB3-BE19-E2C03B431F7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLogLab.Tests", "NLogLab.Tests\NLogLab.Tests.csproj", "{86EB69B4-FF41-468B-8665-BAF8E9F59306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E40EB54A-CF1A-4FB3-BE19-E2C03B431F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40EB54A-CF1A-4FB3-BE19-E2C03B431F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40EB54A-CF1A-4FB3-BE19-E2C03B431F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40EB54A-CF1A-4FB3-BE19-E2C03B431F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86EB69B4-FF41-468B-8665-BAF8E9F59306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EB69B4-FF41-468B-8665-BAF8E9F59306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EB69B4-FF41-468B-8665-BAF8E9F59306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EB69B4-FF41-468B-8665-BAF8E9F59306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F73C74D8-9956-4CE9-830D-10023477CA5E}
+	EndGlobalSection
+EndGlobal
